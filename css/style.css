@@ -1,0 +1,254 @@
+
+body{
+    font-family: sans-serif;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+}
+.tittle{
+    color: aliceblue;
+    font-size: 45px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    max-width: 100%;
+}
+.box{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    padding: 30px 20px ;
+    width: 300px;
+    height: 250px;
+    box-shadow: 0px 0px 156px 24px rgba(0,0,0,0.75);
+    opacity: 0.9 ;
+    border-radius: 20px;
+    border: 5px;
+    transform: translate(-50% , -50%);
+    backdrop-filter: blur(5px);
+
+}
+.container{
+    color: rgb(255, 255, 255);
+    padding-top: 90px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% , -50%);
+}
+
+.error{
+    color: rgb(169, 37, 37);
+}
+.txtfield{
+    color: aliceblue;
+    background: none;
+    border: none;
+    width: 250px;
+    height: 40px;
+
+}
+form .txtfield {
+    position: relative;
+    border-bottom: 2px solid white;
+}
+.pst h5{
+    position: absolute;
+    left: 37%;
+    top: 80%;
+    transform: translate(-50% , -50%);
+}
+.pst a{
+    position: absolute;
+    left: 125%;
+    top: 50%;
+    transform: translate(-50% , -50%);
+    font-size: 14px;
+    color: white;
+}
+.site-btn{
+    margin-top: 15px;
+    margin-left: 50%;
+    transform: translate(-50% , -50%);
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    background: rgb(88, 212, 229);
+    color: rgb(83, 9, 86);
+}
+.site-btn:hover{
+    background-color: rgb(81, 163, 174);
+    
+}
+
+#bg{
+    background-size: 100%;
+    background-position: center;
+}
+
+.container2{
+    color: rgb(255, 255, 255);
+    padding-top: 90px;
+    position: absolute;
+    left: 50%;
+    top: 47%;
+    transform: translate(-50% , -50%);
+}
+
+.tittle2{
+    color: aliceblue;
+    font-size: 45px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    max-width: 100%;
+}
+
+.box2{
+    position: absolute;
+    left: 50%;
+    top: 53%;
+    padding: 30px 20px ;
+    width: 300px;
+    height: 350px;
+    box-shadow: 0px 0px 156px 24px rgba(0,0,0,0.75);
+    opacity: 0.9 ;
+    border-radius: 20px;
+    border: 5px;
+    transform: translate(-50% , -50%);
+    backdrop-filter: blur(5px);
+}
+
+.site-btn2{
+    margin-left: 50%;
+    font-size: 16px;
+    transform: translate(-50% , -50%);
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    background: rgb(88, 212, 229);
+    color: rgb(83, 9, 86);
+}
+.site-btn2:hover{
+    background-color: rgb(81, 163, 174);
+}
+
+.txtfield2{
+    color: aliceblue;
+    background: none;
+    border: none;
+    width: 250px;
+    height: 40px;
+}
+form .txtfield2 {
+    position: relative;
+    border-bottom: 2px solid white;
+}
+.pst2{
+    color: white;
+    position: absolute;
+    left: 67%;
+    top: 102%;
+    transform: translate(-50% , -50%);
+    font-size: 14px;
+    color: white;
+}
+.psth{
+    color: white;
+    position: absolute;
+    left: 40%;
+    top: 102%;
+    transform: translate(-50% , -50%);
+    font-size: 14px;
+    color: white;
+
+}
+
+
+.tittle4{
+        color: aliceblue;
+        font-size: 45px;
+        position: absolute;
+        top: 20%;
+        left: 50%;
+        transform: translate(-50% ,-50%);
+        max-width: 100%;
+}
+.box4{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    padding: 30px 20px ;
+    width: 300px;
+    height: 250px;
+    box-shadow: 0px 0px 156px 24px rgba(0,0,0,0.75);
+    opacity: 0.9 ;
+    border-radius: 20px;
+    border: 5px;
+    transform: translate(-50% , -50%);
+    backdrop-filter: blur(5px);
+
+}
+
+.container4{
+    color: rgb(255, 255, 255);
+    padding-top: 90px;
+    position: absolute;
+    left: 50%;
+    top: 45%;
+    transform: translate(-50% , -50%);
+}
+
+.txtfield4{
+    color: aliceblue;
+    background: none;
+    border: none;
+    width: 250px;
+    height: 40px;
+}
+
+form .txtfield4 {
+    position: relative;
+    border-bottom: 2px solid white;
+}
+
+.site-btn3{
+    font-size: 16px;
+    transform: translate(-50% , -50%);
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    background: rgb(88, 212, 229);
+    color: aliceblue;
+    margin-left: 50%;
+    margin-top: 20%;
+}
+.site-btn3:hover{
+    background-color: rgb(81, 163, 174);
+}
+
+.rsth{
+    color: white;
+    position: absolute;
+    left: 36%;
+    top: 101%;
+    transform: translate(-50% , -50%);
+    font-size: 14px;
+    color: white;
+
+}
+
+.rsthcancel{
+    color: white;
+    position: absolute;
+    left: 72%;
+    top: 101%;
+    transform: translate(-50% , -50%);
+    font-size: 14px;
+    color: white;
+}

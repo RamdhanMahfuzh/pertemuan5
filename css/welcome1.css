@@ -1,0 +1,84 @@
+th{
+    background-color: rgb(124, 181, 227);
+    color: rgb(93, 93, 93);
+    height: 30px;
+    padding:  10px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("pictures/blue-purple\ galaxy.png");
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+ table{
+    margin-left: 25%;
+    font-size: 10pt; 
+    background-color: rgb(131, 214, 255);
+    position: absolute;
+    width: 50%;
+
+ }
+ td{
+    color: rgb(0, 0, 0);
+    padding: 30px;
+    height :25px;   
+ }
+ 
+ .search{
+    position: absolute;
+    left: 85%;
+    transform: translate(-50%);
+ }
+ .btn-search{
+    margin-top: 10px;
+    width: 170px;
+    height: 30px;
+ }
+.search-box{
+    width: 165px;
+   height: 30px;
+}
+#bg{
+    background-size: 100%;
+    background-position: center;
+}
+.btn-logout{
+   margin-top: 5%;
+   position: static;
+   color: white;
+   text-decoration: none;
+}
+.btn--logout{
+  
+   border-radius: 10px;
+   background-color: red;
+}
+.btn--logout:hover{
+   background-color: rgba(136, 39, 39, 0.618);
+}
+
+.delete{
+   text-decoration: none;
+   color: white;
+}
+.btn-delete{
+   border-radius: 5px;
+   background: red 
+}
+.btn-delete:hover{
+   border-radius: 10px;
+   background: rgb(145, 16, 16) 
+}
+.update{
+   text-decoration: none;
+   color: white;
+}
+.btn-update{
+   border-radius: 5px;
+   background: rgb(12, 119, 154) 
+}
+.btn-update:hover{
+   border-radius: 10px;
+   background: rgb(10, 74, 96) 
+}
